@@ -1,0 +1,15 @@
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\bin\Debug\net6.0\C#Seminar5Task34.exe
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\bin\Debug\net6.0\C#Seminar5Task34.deps.json
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\bin\Debug\net6.0\C#Seminar5Task34.runtimeconfig.json
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\bin\Debug\net6.0\C#Seminar5Task34.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\bin\Debug\net6.0\C#Seminar5Task34.pdb
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\obj\Debug\net6.0\C#Seminar5Task34.csproj.AssemblyReference.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\obj\Debug\net6.0\C#Seminar5Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\obj\Debug\net6.0\C#Seminar5Task34.AssemblyInfoInputs.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\obj\Debug\net6.0\C#Seminar5Task34.AssemblyInfo.cs
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\obj\Debug\net6.0\C#Seminar5Task34.csproj.CoreCompileInputs.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\obj\Debug\net6.0\C#Seminar5Task34.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\obj\Debug\net6.0\refint\C#Seminar5Task34.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\obj\Debug\net6.0\C#Seminar5Task34.pdb
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\obj\Debug\net6.0\C#Seminar5Task34.genruntimeconfig.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230311\C_SharpSeminar5\C#Seminar5Task34\obj\Debug\net6.0\ref\C#Seminar5Task34.dll
